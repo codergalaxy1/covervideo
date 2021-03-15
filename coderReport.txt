@@ -1,0 +1,71 @@
+Report created: 
+	3/15/2021	9:23:06 PM
+
+Project name: coder.aep
+
+Source files collected to: 
+	D:\coder galaxy\cover video\coder folder
+
+Source files collected: All
+
+Collected comps:  
+	Comp 1
+	background
+	1
+	Comp 2
+	Comp 3
+	Comp 4
+	Pre-comp 1
+	Pre-comp 2
+	Shape Layer 1 Comp 1
+	yellow
+	white
+	Pre-comp 3
+	logo and text
+	icons
+	android development
+	
+Number of collected files:  6
+
+Size of collected files:  917 KB
+
+Collected source files: 
+	C:\Users\JIHAD\Desktop\1.ai
+	C:\Users\JIHAD\Desktop\AC Footage\Sounds\Starter Sounds\Pop\Hollow Pop 06.wav\Hollow Pop 06.wav
+	C:\Users\JIHAD\Desktop\AC Footage\Sounds\Starter Sounds\Pop\Small Pop 01.wav\Small Pop 01.wav
+	C:\Users\JIHAD\Desktop\android development.ai
+	C:\Users\JIHAD\Desktop\icons.ai
+	C:\Users\JIHAD\Desktop\مشروعنا\cg logo-01.jpg
+	
+Rendering plug-ins:
+	CINEMA 4D
+	
+Effects used:  11
+
+Effect:  
+	
+Effect:  Fast Box Blur
+	
+Effect:  Fill
+	
+Effect:  Gaussian Blur
+	
+Effect:  Gradient Ramp
+	
+Effect:  Plexus
+	
+Effect:  Plexus Lines Renderer
+	
+Effect:  Plexus Noise Effector
+	
+Effect:  Plexus Points Renderer
+	
+Effect:  Plexus Primitives Object
+	
+Effect:  Simple Choker
+	
+
+Layer:  Text Layer
+	External dependencies:  
+		Font family: “DIN Next LT W23”, Font style: “Light”
+
